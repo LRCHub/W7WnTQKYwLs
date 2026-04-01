@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "base_track": "popcorn",
+  "base_artist": "COPES",
+  "createdAt": "2026-04-01T10:53:20.752720Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pass the Popcorn",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/01_Pass_the_Popcorn_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pass the Popcorn (Revisited)",
+      "artist": "The Roots",
+      "has_synced": false,
+      "path": "select/02_Pass_the_Popcorn_(Revisited)_The_Roots.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Popcorn Revisited",
+      "artist": "The Roots",
+      "has_synced": false,
+      "path": "select/03_Popcorn_Revisited_The_Roots.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Do You Love Me : Mother Popcorn (You Got To Have a Mother For Me)",
+      "artist": "The Blues Brothers",
+      "has_synced": false,
+      "path": "select/04_Do_You_Love_Me___Mother_Popcorn_(You_Got_To_Have_a_Mother_For_Me)_The_Blues_Brothers.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Popcorn",
+      "artist": "The Cool Kids",
+      "has_synced": false,
+      "path": "select/05_Popcorn_The_Cool_Kids.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mother Popcorn",
+      "artist": "James Brown",
+      "has_synced": true,
+      "path": "select/06_Mother_Popcorn_James_Brown.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mother Popcorn - Part 1",
+      "artist": "James Brown",
+      "has_synced": false,
+      "path": "select/07_Mother_Popcorn_-_Part_1_James_Brown.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mother Popcorn, Part 1",
+      "artist": "James Brown",
+      "has_synced": true,
+      "path": "select/08_Mother_Popcorn,_Part_1_James_Brown.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Microwave Popcorn",
+      "artist": "Bo Burnham",
+      "has_synced": true,
+      "path": "select/09_Microwave_Popcorn_Bo_Burnham.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Buttered Popcorn (alternate version)",
+      "artist": "The Supremes",
+      "has_synced": false,
+      "path": "select/10_Buttered_Popcorn_(alternate_version)_The_Supremes.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mother Popcorn - Pt. 1",
+      "artist": "James Brown",
+      "has_synced": true,
+      "path": "select/11_Mother_Popcorn_-_Pt._1_James_Brown.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mother Popcorn, Pt. 1",
+      "artist": "James Brown",
+      "has_synced": true,
+      "path": "select/12_Mother_Popcorn,_Pt._1_James_Brown.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Let A Man Come In And Do The Popcorn",
+      "artist": "James Brown",
+      "has_synced": false,
+      "path": "select/13_Let_A_Man_Come_In_And_Do_The_Popcorn_James_Brown.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Buttered Popcorn",
+      "artist": "The Supremes",
+      "has_synced": false,
+      "path": "select/14_Buttered_Popcorn_The_Supremes.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "popcorn",
+      "artist": "COPES",
+      "has_synced": false,
+      "path": "select/pl_01_popcorn_COPES.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "popcorn",
+      "artist": "COPES",
+      "has_synced": false,
+      "path": "select/localdb_01_popcorn_COPES.txt",
+      "repo_name": "EzkbFKypOV8"
+    }
+  ]
+}
